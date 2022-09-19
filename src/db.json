@@ -490,7 +490,7 @@
           "displayName": "New added adv",
           "email": null,
           "phone": null,
-
+          "status": "online",
           "avatarUrl": {
             "title": "catCoverTuVanTinhYeu",
             "url": "https://images.ctfassets.net/49vqjgy9zjzd/5yv1Lm84Lo85IEcUtPAPoW/7b569bd60efa1bcc32e4716891aa997a/catCoverTuVanTinhYeu.jpg"
